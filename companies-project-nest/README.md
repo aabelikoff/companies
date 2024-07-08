@@ -3,7 +3,9 @@
 # Database
 
 DB_HOST=localhost                 # The host address of the database (localhost for local use)
+
 DB_PORT=5432                     # The port on which the PostgreSQL database runs, default is 5432
+
 DB_USERNAME=[YOUR_DB_USERNAME]   # The username for connecting to the database
 DB_PASSWORD=[YOUR_DB_PASSWORD]   # The password for connecting to the database
 DB_DATABASE=[YOUR_DB_NAME] # The name of the database you want to connect to
