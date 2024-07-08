@@ -1,0 +1,46 @@
+export const theme = {
+  colors: {
+    primary: "#007bff",
+    secondary: "#6c757d",
+    success: "#28a745",
+    danger: "#dc3545",
+    warning: "#ffc107",
+    info: "#17a2b8",
+    light: "#f8f9fa",
+    dark: "#343a40",
+  },
+  fontSizes: {
+    basic_large: "16px",
+    basic_medium: "14px",
+    basic_small: "10px",
+    xsmall: "0.5em",
+    small: "0.7em",
+    medium: "1em",
+    large: "1.5em",
+    xlarge: "2em",
+  },
+  greedColumns: {
+    one: "1fr",
+    two: "1fr 2fr",
+  },
+  fontWeight: {
+    thin: 400,
+    normal: 500,
+    bold: 600,
+    extrabold: 700,
+  },
+  spacings: {
+    xxsmall: "2px",
+    xsmall: "4px",
+    small: "8px",
+    medium: "16px",
+    large: "24px",
+    xlarge: "32px",
+  },
+  radius: {
+    small: "4px",
+    medium: "6px",
+    large: "24px",
+    round: "50%",
+  },
+};

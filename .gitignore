@@ -1,0 +1,83 @@
+#companies-project-nest
+# compiled output
+/companies-project-nest/dist
+/companies-project-nest/node_modules
+/companies-project-nest/build
+
+# Logs
+logs
+/companies-project-nest/*.log
+/companies-project-nest/npm-debug.log*
+/companies-project-nest/pnpm-debug.log*
+/companies-project-nest/yarn-debug.log*
+/companies-project-nest/yarn-error.log*
+/companies-project-nest/lerna-debug.log*
+
+# OS
+/companies-project-nest/.DS_Store
+
+# Tests
+/companies-project-nest/coverage
+/companies-project-nest/.nyc_output
+
+# IDEs and editors
+/companies-project-nest/.idea
+/companies-project-nest/.project
+/companies-project-nest/.classpath
+/companies-project-nest/.c9/
+/companies-project-nest/*.launch
+/companies-project-nest/.settings/
+/companies-project-nest/*.sublime-workspace
+
+# IDE - VSCode
+/companies-project-nest/.vscode/*
+/companies-project-nest/!.vscode/settings.json
+/companies-project-nest/!.vscode/tasks.json
+/companies-project-nest/!.vscode/launch.json
+/companies-project-nest/!.vscode/extensions.json
+
+# dotenv environment variable files
+/companies-project-nest/.env
+/companies-project-nest/.env.development.local
+/companies-project-nest/.env.test.local
+/companies-project-nest/.env.production.local
+/companies-project-nest/.env.local
+
+# temp directory
+/companies-project-nest/.temp
+/companies-project-nest/.tmp
+
+# Runtime data
+/companies-project-nest/pids
+/companies-project-nest/*.pid
+/companies-project-nest/*.seed
+/companies-project-nest/*.pid.lock
+
+# Diagnostic reports (https://nodejs.org/api/report.html)
+/companies-project-nest/report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
+
+# companies-project-react
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/companies-project-react/node_modules
+/companies-project-react/.pnp
+/companies-project-react/.pnp.js
+
+# testing
+/companies-project-react/coverage
+
+# production
+/companies-project-react/build
+
+# misc
+/companies-project-react/.DS_Store
+/companies-project-react/.env.local
+/companies-project-react/.env.development.local
+/companies-project-react/.env.test.local
+/companies-project-react/.env.production.local
+
+/companies-project-react/npm-debug.log*
+/companies-project-react/yarn-debug.log*
+/companies-project-react/yarn-error.log*
+
